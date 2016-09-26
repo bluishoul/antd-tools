@@ -1,3 +1,3 @@
-# antd-tools
+# cuk-tools
 
-tools for ant design of React
+tools for Coding UI Kit of React
